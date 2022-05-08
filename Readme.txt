@@ -5,3 +5,4 @@ Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
  https://jishaej.github.io/glowing-chainsaw/
+ https://jishaej.github.io/glowing-chainsaw/
